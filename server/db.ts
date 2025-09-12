@@ -34,9 +34,9 @@ const presentQuestions: Question[] =
         {
             points: 200,
             question:
-                'What kind of rock is this?',
-            imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
-            answer: 'Granite',
+                'What game is this?',
+            imgSrc: 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.1920x1080.jpg?t=1695270428',
+            answer: 'Hollow Knight',
         },
         {
             points: 100,
