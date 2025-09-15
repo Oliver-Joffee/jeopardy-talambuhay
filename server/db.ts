@@ -13,7 +13,7 @@ const pastQuestions: Question[] = sortQuestions([
         points: 200,
         question:
             'What book series is this?',
-        imgSrc: "https://cdn.britannica.com/34/4034-050-91EE1BCF/Flag-Myanmar.jpg",
+        imgSrc: "magic_tree_house.jpg",
         answer: 'Magic Tree House',
     },
     {
