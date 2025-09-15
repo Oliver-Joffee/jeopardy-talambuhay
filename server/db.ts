@@ -13,7 +13,7 @@ const pastQuestions: Question[] = sortQuestions([
         points: 200,
         question:
             'What book series is this?',
-        imgSrc: "magic_tree_house.jpg",
+        imgSrc: "/magic_tree_house.jpg",
         answer: 'Magic Tree House',
     },
     {
