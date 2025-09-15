@@ -6,8 +6,8 @@ const sortQuestions = (questions: { points: number; question: string; answer: st
 const pastQuestions: Question[] = sortQuestions([
     {
         points: 100,
-        question: 'What US state is the Land of Lincoln?',
-        answer: 'Illinois',
+        question: 'What "engine" is this?',
+        answer: 'Scratch',
     },
     {
         points: 200,
@@ -74,15 +74,15 @@ const futureQuestions: Question[] = sortQuestions([
 
 const categories = [
     {
-        title: 'My Past',
+        title: "Oliver's Past",
         questions: pastQuestions
     },
     {
-        title: 'My Present',
+        title: "Oliver's Present",
         questions: presentQuestions
     },
     {
-        title: 'My Future',
+        title: "Oliver's Future",
         questions: futureQuestions
     }
 ];
