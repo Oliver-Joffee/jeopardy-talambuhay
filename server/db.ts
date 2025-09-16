@@ -11,14 +11,14 @@ const pastQuestions: Question[] = sortQuestions([
         answer: 'Scratch',
     },
     {
-        points: 200,
+        points: 300,
         question:
             'What book series is this?',
         imgSrc: "/magic_tree_house.jpg",
         answer: 'Magic Tree House',
     },
     {
-        points: 300,
+        points: 200,
         question:  'What is the name of this toy brand?',
         imgSrc: "https://enjouet.com/cdn/shop/files/bakugan-jouet-boules-transformables-184_900x.webp?v=1742989796",
         answer: 'Bakugan',
