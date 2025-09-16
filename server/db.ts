@@ -7,6 +7,7 @@ const pastQuestions: Question[] = sortQuestions([
     {
         points: 100,
         question: 'What "engine" is this?',
+        imgSrc: "https://projects-static.raspberrypi.org/projects/getting-started-scratch/56af64ccb672ce357e3372a69388952c6f8ca88c/en/images/showcase_static.png",
         answer: 'Scratch',
     },
     {
