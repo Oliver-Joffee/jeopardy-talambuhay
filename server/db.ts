@@ -18,14 +18,15 @@ const pastQuestions: Question[] = sortQuestions([
     },
     {
         points: 300,
-        question:
-            'What Ivy League school has the highest Native American enrollment (a whoppping 1%)?',
-        answer: 'Dartmouth',
+        question:  'What is the name of this toy brand?',
+        imgSrc: "https://enjouet.com/cdn/shop/files/bakugan-jouet-boules-transformables-184_900x.webp?v=1742989796",
+        answer: 'Bakugan',
     },
     {
         points: 400,
-        question: 'Who wrote the Critique of Pure Reason?',
-        answer: 'Immanuel Kant',
+        question: 'What school is this?',
+        imgSrc: "https://static.wixstatic.com/media/ffeca6_2472076806444a89a5c074916eb62cb0~mv2.jpg/v1/fill/w_640,h_448,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ffeca6_2472076806444a89a5c074916eb62cb0~mv2.jpg",
+        answer: 'IN-Tech Academy',
     }
 ]);
 
@@ -64,10 +65,26 @@ const futureQuestions: Question[] = sortQuestions([
     {
         points: 100,
         question:
-            'This country is home to the Dolomites, which are a mountain range that has historical \'via ferratas\', iron cables and rungs, to aid traversing the peaks?',
+            'What HM club is this?',
         imgSrc:
-            "https://laguidalpina.it/cdn/shop/products/ferrata-marmolada-cresta-ovest-Cristiano-Gregnanin-Guida-Alpina-Certificata-Dolomiti-5.jpg?v=1738870778",
-        answer: 'Italy',
+            "/club.png",
+        answer: 'Game Development CLub',
+    },
+    {
+        points: 200,
+        question: "When does the Game Development Club Meet?",
+        answer: "Every other Thursday",
+    },
+    {
+        points: 300,
+        question: "What is the name of the annual game jam ran by a certain game development Youtuber with approximately 1.68 million subscribers that consistently crashes itch.io every year?",
+        answer: "GMTK Game Jam"
+    },
+    {
+        points: 400,
+        question: "What is the name of this college?",
+        imgSrc: "https://www.soka.edu/sites/default/files/styles/700x350/public/images/2022-01/soka-overview.jpg?h=2bacc77b&itok=ShwNsu50",
+        answer: "SUA"
     }
 ]);
 
